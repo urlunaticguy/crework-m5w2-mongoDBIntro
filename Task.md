@@ -50,11 +50,18 @@
 
 # reading entries based on specific condition
 
-## find data based on filters and show data based on filters
+## find data based on filters and show data based on filters (projections)
 
 ## 1 means show , 0 means don't show
 
 ## id shows by default
 
 ![Alt text](./images/9.png?raw=true "Title")
+<br><br><br>
+
+# reading entries based on specific condition
+
+## projections of all elements
+
+![Alt text](./images/10.png?raw=true "Title")
 <br><br><br>
